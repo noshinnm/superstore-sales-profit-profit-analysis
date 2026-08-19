@@ -66,3 +66,10 @@ Provides deeper analysis of customer and product performance, including:
 ##  Learning Outcome
 
 This project helped develop practical skills in **Power BI, DAX, data visualization, profitability analysis, and business storytelling** by transforming a raw sales dataset into an interactive business intelligence dashboard.
+
+
+##  Project Structure
+
+- README.md — Project overview, tools, insights and recommendations
+- Superstore Sales Profit Analysis.pbix — Power BI dashboard file
+- screenshots/ — Dashboard screenshots
